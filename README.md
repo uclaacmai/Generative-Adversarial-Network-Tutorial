@@ -12,9 +12,9 @@ git clone https://github.com/uclaacmai/Generative-Adversarial-Network-Tutorial.g
 ~~~~
 2. Next, we want to make sure we have Jupyter Notebook installed. You can either follow one of two paths. You can either install Anaconda (which installs Python, Jupyter Notebook, and a bunch of other useful computing libraries) or use pip.
 
-To install Anaconda, take a look at their [website](https://www.continuum.io/downloads), which has some pretty great documentation. 
+- To install Anaconda, take a look at their [website](https://www.continuum.io/downloads), which has some pretty great documentation. 
 
-If you want to install using pip, you'll need to update pip with the following code (Replace pip with pip3 if using Python 3). 
+- If you want to install using pip, you'll need to update pip with the following code (Replace pip with pip3 if using Python 3). 
 
 On Linux/Mac OS:
 ~~~~
